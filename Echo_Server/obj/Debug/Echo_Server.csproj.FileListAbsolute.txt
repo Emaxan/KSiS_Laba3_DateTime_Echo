@@ -1,0 +1,6 @@
+D:\Programs\VS\_KSIS\KSiS_Laba3\Echo_Server\bin\Debug\Echo_Server.exe.config
+D:\Programs\VS\_KSIS\KSiS_Laba3\Echo_Server\bin\Debug\Echo_Server.exe
+D:\Programs\VS\_KSIS\KSiS_Laba3\Echo_Server\bin\Debug\Echo_Server.pdb
+D:\Programs\VS\_KSIS\KSiS_Laba3\Echo_Server\obj\Debug\Echo_Server.csprojResolveAssemblyReference.cache
+D:\Programs\VS\_KSIS\KSiS_Laba3\Echo_Server\obj\Debug\Echo_Server.exe
+D:\Programs\VS\_KSIS\KSiS_Laba3\Echo_Server\obj\Debug\Echo_Server.pdb

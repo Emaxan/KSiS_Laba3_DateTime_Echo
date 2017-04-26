@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSiS_Laba3", "KSiS_Laba3\KSiS_Laba3.csproj", "{AFFAAAFB-0DE2-4F0E-8CB1-DB76A8B88AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echo_Server", "Echo_Server\Echo_Server.csproj", "{90C881EE-752C-4A40-938F-4A929DAC7BD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time_Server", "Time_Server\Time_Server.csproj", "{CF32C6FF-24DE-4EA2-9D30-20D8E3FEBF74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFFAAAFB-0DE2-4F0E-8CB1-DB76A8B88AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFAAAFB-0DE2-4F0E-8CB1-DB76A8B88AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFAAAFB-0DE2-4F0E-8CB1-DB76A8B88AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFAAAFB-0DE2-4F0E-8CB1-DB76A8B88AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C881EE-752C-4A40-938F-4A929DAC7BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C881EE-752C-4A40-938F-4A929DAC7BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C881EE-752C-4A40-938F-4A929DAC7BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C881EE-752C-4A40-938F-4A929DAC7BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF32C6FF-24DE-4EA2-9D30-20D8E3FEBF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF32C6FF-24DE-4EA2-9D30-20D8E3FEBF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF32C6FF-24DE-4EA2-9D30-20D8E3FEBF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF32C6FF-24DE-4EA2-9D30-20D8E3FEBF74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

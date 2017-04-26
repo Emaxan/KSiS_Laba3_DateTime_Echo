@@ -1,0 +1,6 @@
+D:\Programs\VS\_KSIS\KSiS_Laba3\Time_Server\bin\Debug\Time_Server.exe.config
+D:\Programs\VS\_KSIS\KSiS_Laba3\Time_Server\bin\Debug\Time_Server.exe
+D:\Programs\VS\_KSIS\KSiS_Laba3\Time_Server\bin\Debug\Time_Server.pdb
+D:\Programs\VS\_KSIS\KSiS_Laba3\Time_Server\obj\Debug\Time_Server.csprojResolveAssemblyReference.cache
+D:\Programs\VS\_KSIS\KSiS_Laba3\Time_Server\obj\Debug\Time_Server.exe
+D:\Programs\VS\_KSIS\KSiS_Laba3\Time_Server\obj\Debug\Time_Server.pdb
